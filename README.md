@@ -32,7 +32,7 @@ To run this application, you need to have:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/NadunAnsanayaka/Weather-App.git
    cd weather-app
    ```
 
