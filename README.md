@@ -61,9 +61,6 @@ To run this application, you need to have:
 - Enter the name of the city you want to check the weather for in the search bar and click the search icon.
 - The app will display the current weather, including temperature, humidity, wind speed, and a corresponding weather icon.
 
-## Screenshots
-
-![Screenshot of the Weather App](link-to-your-screenshot.png)
 
 ## Contribution
 
