@@ -11,7 +11,7 @@ import wind_icon from "./assets/wind.png";
 import humidity_icon from "./assets/humidity.png";
 
 const WeatherApp = () => {
-  let api_key = "";
+  let api_key = ""; // Add your api key
 
   // State hooks for weather data and icon
   const [wicon, setWicon] = useState(cloud_icon);
